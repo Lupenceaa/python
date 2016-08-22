@@ -16,4 +16,6 @@ print "Please approve this."
 
 print "One more thing that needs approval!"
 
+#Inca un rand de exemplu
+pint "Asta ar fi ultimu' rand!"
 
