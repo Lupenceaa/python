@@ -19,3 +19,5 @@ print "One more thing that needs approval!"
 #Inca un rand de exemplu
 pint "Asta ar fi ultimu' rand!"
 
+# To be continued
+print "See you later!"
