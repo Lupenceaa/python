@@ -8,3 +8,6 @@ print "The result will be:" , num1 * num2
 num3 = 10
 num4 = 1
 print "The result will be:" , num3 * num4
+
+#Added for approval.Ment for_approval
+print "Please approve this."
