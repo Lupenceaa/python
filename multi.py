@@ -11,3 +11,9 @@ print "The result will be:" , num3 * num4
 
 #Added for approval.Ment for_approval
 print "Please approve this."
+
+# Please approve this as well
+
+print "One more thing that needs approval!"
+
+
