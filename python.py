@@ -5,6 +5,7 @@ print("hello world")
 print("Happy")
 print('Blah')
 print('Be')
+print("Ce faci?")
 num1 = 2
 num2 = 3
 num3 = 5
