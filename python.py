@@ -1,4 +1,5 @@
 #/usr/bin/python
+# Adds two numbers.
 print("test")
 print("hello world")
 num1 = 2
